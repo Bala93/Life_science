@@ -20,5 +20,6 @@ Darlabel annotation tool is used to create annotation dataset. The tool gives a 
 
 The code yolo_img_txt takes this .txt file and gives the folder with images and txt files separately
 
-
-
+In pix2pix, the folders are aranged with image and mask 
+Giving the path of the image and mask will generate folder A and B with subfolders train and test in each.
+Giving the A and B path to the combine_AandB code AB folder will be generated. 
