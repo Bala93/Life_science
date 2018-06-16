@@ -46,6 +46,10 @@ sudo pip install jupyter
 sudo pip install matplotlib
 ```
 
+## Clone the repository
+Clone the tensorflow object detection repository [here](https://github.com/tensorflow/models.git).
+
+
 ## Protobuf Compilation
 
 The Tensorflow Object Detection API uses Protobufs to configure model and
